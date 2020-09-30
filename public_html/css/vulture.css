@@ -1,0 +1,43 @@
+
+/* 
+    Created on : 15.4.2020, 9:26:21
+    Author     : Maria Järvinen
+*/
+
+body{
+    background-image: url("../img/tausta (4).jpg");
+    color: #fff;
+    font-family: 'Alike Angular', serif;
+}
+.single{
+    font-size: 2em;
+}
+
+
+img.logo{
+    
+    width: 500px;
+    border-radius: 500px;
+}
+header{
+    margin: 40px;
+}
+img{
+    width: 300px;
+    height: 300px;
+    
+}
+.iso{
+    width: 100px;
+    height: 100px;
+}
+img.teksti{
+    width:800px;
+}
+.vk{
+    width: 120px;
+    height: 100px;
+}
+.mail{
+    font-size: 1.5em;
+}
